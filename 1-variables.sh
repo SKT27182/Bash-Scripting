@@ -11,5 +11,5 @@ echo Current working directory is $PWD
 
 
 #User defined variables   mostly are in small letters
-name=Mark    #defined a variable named name  'withour any space between the = sign'
+name="/Mark/bn"   #defined a variable named name  'withour any space between the = sign'
 echo The name is $name
